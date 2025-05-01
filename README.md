@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsAlex58 I'm currently a computer science undergrad student at East Carolina University.
+- 👋 Hi, I’m @itsAlex58 I'm currently a computer science graduate from East Carolina University.
 - 👀 I’m interested in learning new programming languages, game development, and databases.
-- 🌱 I’m currently learning Prolog and Haskell.
+- 🌱 I’m currently learning Python and about webapplications.
 - 💞️ I’m looking to collaborate on applications or games using the languages, C++, C# or Java.
 - 📫 How to reach me: email: cruzbautistaa17@students.ecu.edu
 
